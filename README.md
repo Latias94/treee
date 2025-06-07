@@ -16,11 +16,14 @@ A high-performance tree command-line tool written in Rust, featuring gitignore s
 ### From crates.io
 ```bash
 cargo install treee
+
+# or binstall
+cargo binstall treee
 ```
 
 ### From source
 ```bash
-git clone https://github.com/yourusername/treee.git
+git clone https://github.com/Latias94/treee.git
 cd treee
 cargo install --path .
 ```
